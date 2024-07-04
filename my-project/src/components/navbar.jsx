@@ -7,8 +7,8 @@ import React from 'react'
         <span className='font-bold texl-xl mx-10'>I logo</span>
       </div>
       <ul className='flex gap-8 mx-10'>
-        <li className='cursor-pointer'>Home</li>
-        <li className='cursor-pointer'>To Do</li>
+        <li className='cursor-pointer hover:font-bold'>Home</li>
+        <li className='cursor-pointer hover:font-bold'>To Do</li>
       </ul>
     </nav>
   )
